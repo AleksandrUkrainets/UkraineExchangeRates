@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages>
+  <Message Key="IncorrectDate" Text="Enter the correct DATE 'dd.mm.yyyy'."></Message>
+  <Message Key="IncorrectCurrency" Text="Enter the correct currency."></Message>
+  <Message Key="IncorrectFormat" Text="The message format is incorrect."></Message>
+  <Message Key="EmptyAnswer" Text="The requested data is missing from the archive."></Message>
+  <Message Key="Intro" Text="Hi, I am a chat bot Ukraine Exchange Rates. I can find out for you the exchange rate for a specific date.
+                            Available currencies: AUD, CAD, CZK, DKK, HUF, ILS, JPY, LVL, LTL, NOK, SKK, SEK, CHF, RUB, GBP, USD, BYR, EUR, GEL, PLZ..
+                            Request format, for example: USD / 25.08.2021."></Message>
+</Messages>
